@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c|Varela+Round&display=swap');
+body {
+    direction: rtl;
+    background-color: white;
+    color: black;
+    font-family: 'Varela Round', sans-serif;
+    background-color: #92b6dd;
+}
+/*הגדרת גודל כללי לעמוד*/
+#container {
+    margin: 0 auto;
+    width: 960px;
+    height:830px;
+    background-image: url('../image/1263.jpg');
+    background-size:cover;
+   
+}
+
+h1{
+   font-weight:bold;
+   position:relative;
+   bottom:-42px;
+   font-size:40pt;
+   text-align:center;
+}
+h2 {
+    font-weight: bold;
+    position: relative;
+    top: -2px;
+    font-size: 25pt;
+    text-align: center;
+}
+#cotert1{
+    font-size:20pt;
+    font-weight:bold;
+    position:relative;
+    bottom:622px;
+
+}
+p {
+    font-size: 18pt;
+    width: 592px;
+    position: relative;
+    bottom:634px;
+    
+}
+#cotert2 {
+    font-size: 25pt;
+    font-weight: bold;
+    position: relative;
+    bottom: 595px;
+}
+form {
+    position:relative;
+    bottom: 624px;
+    font-size:18pt;
+    width:590px;
+    left: 120px;
+}
+
+
+
+#photo {
+    background-image: url('../image/Untitled-1.png');
+    background-size: 1066px;
+    width: 925px;
+    height: 628px;
+    position: relative;
+    right: 497px;
+    top: -80px;
+}
+a {
+    font-size: 18pt;
+    font-weight: bold;
+    position: relative;
+    bottom: 623px;
+}
+#cotert3 {
+    font-size: 25pt;
+    font-weight: bold;
+    position: relative;
+    top: -33px;
+    left: -124px;
+}
+#name {
+    font-size: 15pt;
+    position: relative;
+    bottom: 52px;
+    right:181px;
+}
+#lastName {
+    font-size: 15pt;
+    position: relative;
+    bottom: 52px;
+    right: 193px;
+}
+#phone {
+    font-size: 15pt;
+    position: relative;
+    bottom: 52px;
+    right: 141px;
+}
+#mail {
+    font-size: 15pt;
+    position: relative;
+    bottom: 52px;
+    right: 160px;
+    width: 150px;
+}
+#Send {
+    font-size: 15pt;
+    position: relative;
+    bottom: 47px;
+    right: 430px;
+}
+section {
+    margin-right: 5px;
+}
+
+#zoom {
+    background-image: url('../image/Untitled-2.png');
+    width: 48px;
+    height: 50px;
+    background-size: 47px;
+    position: relative;
+    bottom: 712px;
+    left: -275px;
+}
